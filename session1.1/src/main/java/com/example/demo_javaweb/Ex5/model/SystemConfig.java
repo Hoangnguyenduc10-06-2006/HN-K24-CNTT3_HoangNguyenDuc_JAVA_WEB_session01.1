@@ -6,7 +6,7 @@ import org.springframework.stereotype.Component;
 @Component
 public class SystemConfig {
 
-    @Value("Linh")
+    @Value("duc")
     private String branchName;
 
     @Value("10:00")
