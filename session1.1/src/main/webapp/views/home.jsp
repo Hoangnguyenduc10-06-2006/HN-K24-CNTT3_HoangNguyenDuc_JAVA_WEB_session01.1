@@ -8,9 +8,9 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Linh xinh gai</title>
+    <title>helo home</title>
 </head>
 <body>
-<h1>linh </h1>
+<h1>duc </h1>
 </body>
 </html>
